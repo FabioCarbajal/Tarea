@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492186871 source:c:\tarea\tarea\main.cpp
+	"math.h"
+	<iostream>
+
